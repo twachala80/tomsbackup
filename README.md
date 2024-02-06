@@ -1,2 +1,1 @@
-# tomsbackup
-Simple tool to make backups
+Simple script to facilitate backups
