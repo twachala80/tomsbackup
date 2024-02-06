@@ -1,1 +1,1 @@
-Simple script to facilitate backups
+Simple script to facilitate backups on Ubuntu
